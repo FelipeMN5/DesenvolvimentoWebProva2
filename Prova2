@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lionel Messi - Copa do Mundo</title>
+</head>
+
+<body>
+    <div class="conquista">
+        <h1>A tragetória de Lionel Messi em copas do mundo</h1>
+        <a href="#2006" class="btn">Alemanha 2006</a>
+        <a href="#2010" class="btn">Africa do Sul 2010</a>
+        <a href="#2014" class="btn">Brasil 2014</a>
+        <a href="#2018" class="btn">Russia 2018</a>
+        <a href="#2022" class="btn">Catar 2022</a>
+        <p>
+            Uma carreira brilhante, repleta de conquistas. Lionel Messi é um dos maiores da história do futebol.
+            O argentino acumula troféus e prêmios individuais, assistências e muitos gols em sua trajetória por
+            Barcelona, PSG e a seleção argentina.
+            Destaque a suas atuações especiais e sua maior conquista, a copa do mundo de 2022.
+        </p>
+        <p>
+            A vitória na Copa do Mundo marcou um momento histórico na carreira de Messi, que já havia alcançado inúmeras
+            conquistas individuais e coletivas ao longo dos anos.
+        </p>
+        <p>
+            Nesta página, você encontrará informações sobre a trajetória de Lionel Messi em copas do mundo e poderá
+            celebrar aquela que é sua maior conquista, a Copa do mundo do Catar de 2022.
+        </p>
+        <div class="messinho">
+            <img src="https://placar.abril.com.br/wp-content/uploads/2022/12/000_332D3EA.jpg?quality=70&strip=info&w=1280&h=720&crop=1"
+                alt="messinho">
+        </div>
+    </div>
+
+    <div class="conquista" id="2006">
+        <h2>Copa do mundo de 2006</h2>
+        <p>O técnico José Pekerman tinha um elenco estrelado em mãos, com nomes como Abbondanzieri, Ayala, Sorín,
+            Cambiasso, Saviola, Crespo, Riquelme, Tévez, Aimar, Maxi, Lucho...
+            Até o treinador da Argentina no Qatar, Lionel Scaloni, estava no plantel. O "juvenil" era um tal de Lionel
+            Messi, o mais jovem argentino em Mundiais, primeiro recorde antes mesmo de entrar em campo.
+            Ainda teve o primeiro gol, a primeira assistência, a estreia como titular e a primeira decepção.</p>
+        <p>
+        <p>
+            Em 2006, Messi não saiu do banco de reservas na vitória da Argentina sobre a Costa do Marfim. A estreia em
+            Copas, então, foi contra a Sérvia e Montenegro. Na ocasião, ele saiu do banco e balançou a rede e deu
+            assistência na goleada por 6 a 0.
+        </p>
+        <p>
+            O primeiro jogo de Messi como titular foi contra a Holanda. Ele foi substituído por Julio Cruz, no segundo
+            tempo. O duelo terminou 0 a 0.
+        </p>
+        <div class="messinho">
+            <img src="https://pbs.twimg.com/media/D2muC_GWoAEz2t-.jpg" alt="Messi2006">
+        </div>
+    </div>
+    <div class="conquista" id="2010">
+        <h2>Copa do mundo de 2010</h2>
+        <p>
+            Messi chegou à África do Sul com outro status. Já não era um craque em potencial e, sim, um dos melhores do
+            mundo. O astro, contudo, decepcionou. Ele se despediu da Copa zerado.
+        </p>
+        <p>
+            Em 2010, Messi foi comandado pelo maior ídolo argentino: Diego Maradona. Heinze, Mascherano, Di María,
+            Verón, Tévez, Higuaín, Milito e Agüero eram nomes de peso daquela seleção.
+        </p>
+        <p>
+            Nas oitavas de final, triunfo por 3 a 1 sobre o México – Messi deu uma assistência. A Alemanha voltou a ser
+            a pedra no sapato. Desta vez, com um 4 a 0.
+        </p>
+        <div class="messinho">
+            <img src="https://trespontos.blog.br/wp-content/uploads/2020/07/ALEARG2010-05.jpg" alt="messi2010">
+        </div>
+    </div>
+    <div class="conquista" id="2014">
+        <h2>Copa do mundo de 2014</h2>
+        <p>
+            Um Mundial no país vizinho, no arquirrival. Uma festa da torcida argentina em tudo que é canto do Brasil.
+            Messi desembarcava em Belo Horizonte, base da seleção na Copa, já como um gigante do futebol. Tinha tudo,
+            tudo, tudo para dar certo. Alejandro Sabella montara um time forte defensivamente, com Messi como a figura
+            central. O futebol foi econômico, os resultados vieram, o 10 encerrou a seca de gols, mas faltou um único
+            detalhe: a final. ”Nos robaron la ilusión”, diria o diário Olé.
+        </p>
+        <p>
+            No Brasil, Messi bateu na trave: uma dura decepção para o craque argentino. Na fase de grupos, o astro
+            argentino acabou com a seca de gols em Copas do Mundo.
+        </p>
+        <p>
+            Nas oitavas de final, Messi deu a assistência para Di María, na prorrogação, fazer o gol da vitória por 1 a
+            0 sobre a Suíça, na Arena Corinthians. Depois, a Argentina deixou a Bélgica no caminho, com triunfo por 1 a
+            0, no Mané Garrincha.
+        </p>
+        <p>
+            A vaga para a final foi alcançada no drama dos pênaltis. Após empate sem gols no tempo normal e na
+            prorrogação, a Argentina derrubou a Holanda nas penalidades por 4 a 2, na Arena Corinthians.</p>
+        <p>
+            A Alemanha novamente surgiu no caminho da Argentina e impôs nova decepção. Götze, na prorrogação, fez o gol
+            do título alemão. Messi deixou o Brasil com um prêmio: ele foi eleito o Bola de Ouro do Mundial.
+        </p>
+        <div class="messinho">
+            <img src="https://media.gazetadopovo.com.br/2015/02/288bc35bc1289cb84bd843a4af101411-gpLarge.jpg"
+                alt="messi2014">
+        </div>
+    </div>
+    <div class="conquista" id="2018">
+        <h2>Copa do mundo de 2018</h2>
+        <p>A verdade é que Jorge Sampaoli nunca conseguiu o encaixe perfeito na sua Argentina. O time ainda jogava para
+            Messi, Messi ainda jogava o fino da bola, mas as coisas pareciam não se alinhar. Os resultados na Rússia
+            acabaram comprovando: foi uma das piores Copas do país e a menos animadora de Messi.</p>
+        <p>
+            A Argentina largou com empate com a Islândia, por 1 a 1. Depois, ficou nas cordas ao perder por 3 a 0 para a
+            Croácia. Assim, foi para a última rodada da fase de grupos pressionada. O triunfo por 2 a 1 sobre a Nigéria
+            – Messi abriu o placar – garantiu a classificação.
+        </p>
+        <p>
+            Messi & Cia. caíram nas oitavas de final, em um jogão contra a França, que venceu por 4 a 3. O astro
+            argentino deu duas assistências.
+        </p>
+        <p>
+            Com seis gols em 19 jogos de Copa, Messi vai para o Catar para tentar escrever o melhor capítulo dele em
+            Mundial.
+        </p>
+        <div class="messinho">
+            <img src="https://img.r7.com/images/franca-x-argentina-30062018130402099?dimensions=660x360" alt="">
+        </div>
+    </div>
+    <div class="conquista" id="2022">
+        <h2>Copa do mundo de 2022</h2>
+        <p>
+            Lionel Messi liderou a seleção argentina até a vitória na Copa do Mundo de 2022, realizada no Catar. Com sua
+            habilidade única e visão de jogo impressionante, Messi foi o destaque do torneio, marcando gols importantes
+            e distribuindo assistências para seus companheiros de equipe.
+        </p>
+        <p>
+            A Argentina enfrentou grandes desafios ao longo da competição, mas Messi mostrou sua determinação e talento
+            excepcional, conduzindo sua equipe rumo à glória. A final foi especialmente emocionante, com a Argentina
+            vencendo por 3 a 2 em uma partida eletrizante.
+        </p>
+        <p>
+            Essa conquista consagrou Lionel Messi como um dos maiores jogadores de todos os tempos e trouxe alegria para
+            milhões de fãs argentinos ao redor do mundo.
+        </p>
+        <div class="messinho">
+            <img src="https://diariodonordeste.verdesmares.com.br/image/contentid/policy:7.4739253:1671393613/Lionel-Messi.jpg?f=default&$p$f=38fe0ac"
+                alt="Messi">
+        </div>
+    </div>
+
+    <div class="conquista">
+        <h2>Para comentários e sugestões</h2>
+        <form action="http://formmail.kinghost.net/formmail.cgi" method="POST">
+            <input type="hidden" name="recipient" value="lipe786@gmail.com">
+            <input type="hidden" name="redirect"
+                value="https://www.instagram.com/p/CmUv48DLvxd/?utm_source=ig_embed&ig_rid=cf22db00-bc6f-424c-83f5-353cf15dc460">
+            <input type="hidden" name="subject" value="teste de assunto">
+            <input type="hidden" name="email" value="lipe786@gmail.com">
+
+            <p>
+                Nome:<br />
+                <input type="text" size="30" name="nome">
+            </p>
+
+            <p>
+                E-mail:<br />
+                <input type="text" size="30" name="replyto">
+            </p>
+
+            <p>
+                Comentários:<br />
+                <input type="text" size="35" name="Comentarios">
+            </p>
+
+            <p>
+                <input type="submit" name="BTEnvia" value="Enviar">
+                <input type="reset" name="BTApaga" value="Apagar">
+            </p>
+        </form>
+        <div class="conquista">
+            <footer>
+                Carlos Felipe
+            </footer>
+        </div>
+    </div>
+</body>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #c4b2ee;
+    }
+
+    h1 {
+        color: #333;
+        margin-top: 50px;
+    }
+
+    p {
+        color: #666;
+        margin-bottom: 20px;
+    }
+
+    .conquista {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #333;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+
+    .btn:hover {
+        background-color: #627edb;
+        color: #f1eaea;
+    }
+
+    .messinho>img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+</style>
+
+</html>
